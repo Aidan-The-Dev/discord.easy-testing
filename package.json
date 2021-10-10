@@ -1,0 +1,22 @@
+{
+  "name": "discord.easy-testing",
+  "version": "0.0.1-beta",
+  "description": "An easy to use discord.js alternative",
+  "main": "index.js",
+  "keywords": [
+    "discord",
+    "discord.easy",
+    "discord.ez",
+    "easy",
+    "testing"
+  ],
+  "author": "pog-sister",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "events": "^3.3.0",
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.0",
+    "ws": "^7.3.1",
+    "zlib-sync": "^0.1.7"
+  }
+}
